@@ -1,0 +1,15 @@
+/private
+/tmp
+/.cghooks.lock
+/_ide_helper.php
+/.vscode
+*.bat
+
+/pushover_config.py
+pushover_config.py
+
+/__pycache__
+__pycache__
+
+*.log
+*.test
