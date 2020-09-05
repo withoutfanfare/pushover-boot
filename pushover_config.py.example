@@ -1,0 +1,5 @@
+pushover_config = {
+    'user': 'user',
+    'token': 'token',
+    'url': 'api.pushover.net:443'
+}
